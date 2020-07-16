@@ -1,3 +1,3 @@
 # Face-Detector-HaarCascade
 
-## Dependecies :- Python, opencv
+#### Dependecies :- Python, opencv
